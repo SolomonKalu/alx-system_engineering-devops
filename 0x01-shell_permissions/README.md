@@ -17,3 +17,5 @@ Task 7. A script that adds execution permission to the owner, the group owner an
 Task 8. A script that sets the permission to the file hello
 
 Task 9. A script that sets the mode of the file hello
+
+Task 10. A script that sets the mode of the file hello the same as olleh’s mode
