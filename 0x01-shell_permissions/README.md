@@ -26,4 +26,6 @@ Task 12. A script that creates a directory with permissions 751 in the working d
 
 Task 13. A script that changes the group owner to school for the file hello
 
-Task 14. A a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+Task 14. A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+
+Task 17. A script that will play the StarWars IV episode in the terminal 
